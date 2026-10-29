@@ -1,0 +1,1 @@
+This file is every thing on our first prototype, 2 DOF robot arm. learn about mathmatics for robot arm and design.
